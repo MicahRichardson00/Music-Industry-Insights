@@ -3,7 +3,6 @@ A streamlit page dedicated to some exploratory analysis of the Music Industry, M
 [Music Industry Analysis Streamlit](https://music-industry-analysis.streamlit.app/)
 
 # Introduction
-What is the problem you want to solve or the story you are trying to tell
 Before my internship at Universal Music Group this summer, I wanted to get an understanding of what the Music Industry has been through in the past and what trends to look forward to in the future. Given that my role will revolve around revenue and analytics I chose datasets that would help me explore at a granular level what trends were for certain consumption formats, genres, and demographic groups. It was interesting to see some high-level trends in music consumption sales. Previously popular forms of music like physical Vinyls and CDs have seen above-marginal increases in sales revenue over the past few years as Gen Z has become infatuated with collecting physical media. Also, older generations like Gen X and Baby Boomers tend to be more price-sensitive when it comes to music consumption and as such are the primary leaders in free/ad-supported platform usage. I designed this app so that as you go through the various tabs, you can learn based on the categories that are of importance to you. This was extremely helpful in building out my visualization capabilities in addition to immersing myself in industry knowledge.
 
 # Data design
